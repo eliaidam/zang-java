@@ -15,7 +15,7 @@ Installation
 
 Clone the repo, and install via [maven](http://maven.apache.org/download.html):
 ```
-$ git clone git@github.com:zang-cloud/zang-java.git
+$ git clone https://github.com/eliaidam/zang-java
 $ cd zang-java
 $ mvn install
 ```
